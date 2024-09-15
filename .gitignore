@@ -2,3 +2,5 @@
 !.gitignore
 !lua
 !lua/*.lua
+!plugin
+!plugin/*.lua
